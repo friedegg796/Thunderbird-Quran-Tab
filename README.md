@@ -1,4 +1,6 @@
-# Google Messages Tab
+big wip pls wait
+
+# Quran.com Tab
 Unofficial Quran.com add-on for Thunderbird, it adds a button that opens a Google Messages tab in Thunderbird.
 Go to [Thunderbird Add-ons page](https://addons.thunderbird.net/thunderbird/addon/google-messages-tab) for download and reviews.
 
