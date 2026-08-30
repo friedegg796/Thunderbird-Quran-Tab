@@ -13,12 +13,12 @@
   "version": "1.0.0",
   "default_locale": "en",
   "icons": {
-    "48": "skin/google_messages_icon.svg",
-    "96": "skin/google_messages_icon.svg"
+    "48": "skin/quran_tab_icon.svg",
+    "96": "skin/quran_tab_icon.svg"
   },
   "browser_action": {
     "default_title": "GM",
-    "default_icon": "skin/google_messages_icon.svg"
+    "default_icon": "skin/quran_tab_icon.svg"
   },
   "background": {
     "scripts": [
