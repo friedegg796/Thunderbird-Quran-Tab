@@ -6,10 +6,10 @@
       "strict_min_version": "78.0"
     }
   },
-  "name": "Google Messages Tab",
+  "name": "Quran Tab",
   "description": "__MSG_extensionDescription__",
-  "author": "Sigurd Dagestad",
-  "homepage_url": "https://github.com/sigurd-dev/Thunderbird-Google-Messages-Tab/",
+  "author": "Hasnain Alahi (friedegg796)",
+  "homepage_url": "https://github.com/friedegg796/Thunderbird-Quran-Tab",
   "version": "1.0.0",
   "default_locale": "en",
   "icons": {
