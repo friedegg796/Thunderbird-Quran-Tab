@@ -1,12 +1,12 @@
 # Thunderbird Quran Tab
-Unofficial Quran.com add-on for Thunderbird, it adds a button that opens a Google Messages tab in Thunderbird.
+Unofficial Quran.com add-on for Thunderbird, it adds a button that opens a quran.com tab in Thunderbird.
 Go to [Thunderbird Add-ons page](https://addons.thunderbird.net/thunderbird/addon/google-messages-tab) for download and reviews.
 
-## Installing 
+## Installing within Thunderbird
 Open Thunderbird, go to Tools -> Add-ons -> Extensions, search for Quran in the search box and click on "+ Add to Thunderbird".
 
 ### Installing from sources
-Download the repository, zip it, rename it to Quran-Tab.xpi and choose install addon from file in Thunderbird.
+Download the repository, unzip it, go into the files, zip those files, rename the zipped file to Quran-Tab.xpi and choose install addon from file in Thunderbird.
 
 In linux the xpi file can be created with the following commands
 * `git clone https://github.com/friedegg796/Thunderbird-Quran-Tab`
