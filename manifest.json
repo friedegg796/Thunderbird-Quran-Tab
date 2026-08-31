@@ -1,28 +1,29 @@
 {
   "manifest_version": 2,
-  "applications": {
-    "gecko": {
-      "id": "friedegg796.quran_tab@addons.thunderbird.net",
-      "strict_min_version": "78.0"
-    }
-  },
   "name": "Quran Tab",
-  "description": "__MSG_extensionDescription__",
+  "description": "Thunderbird extension to open quran.com in a new tab.",
+  "version": "1.0.0",
   "author": "Hasnain Alahi (friedegg796)",
   "homepage_url": "https://github.com/friedegg796/Thunderbird-Quran-Tab",
-  "version": "1.0.0",
-  "default_locale": "en",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "friedegg796.quran_tab@addons.thunderbird.net",
+      "strict_min_version": "106.0"
+    }
+  },  
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "https://*.quran.com/*"
+    ],
   "icons": {
-    "48": "skin/quran_tab_icon.svg",
-    "96": "skin/quran_tab_icon.svg"
-  },
-  "browser_action": {
-    "default_title": "GM",
-    "default_icon": "skin/quran_tab_icon.svg"
+    "32": "quran_tab_icon.svg",
+    "48": "quran_tab_icon.svg",
+    "96": "quran_tab_icon.svg"
   },
   "background": {
     "scripts": [
-      "src/background.js"
+      "qurantab.js"
     ]
   }
 }

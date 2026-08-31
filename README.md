@@ -19,4 +19,6 @@ In linux the xpi file can be created with the following commands
 
 The [Google Keep Tab](https://github.com/Garoe/Thunderbird-Google-Keep-Tab) where this project was essentially "ripped-off" from.
 
-Quran Tab icon by <a href="https://www.svgrepo.com" target="_blank">SVG Repo</a>
+Quran Tab icon by [SVG Repo](https://www.svgrepo.com).
+
+Credits do not mean condoning them, just means I credited them.
